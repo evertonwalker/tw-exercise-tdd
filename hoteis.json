@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Parque das flores",
+        "rank": 3,
+        "regularValues": {
+            "week": 110,
+            "weekend": 90
+        },
+        "fidelityValues": {
+            "week": 80,
+            "weekend": 80
+        }
+    },
+    {
+        "name": "Jardim botânico",
+        "rank": 4,
+        "regularValues": {
+            "week": 160,
+            "weekend": 60
+        },
+        "fidelityValues": {
+            "week": 110,
+            "weekend": 50
+        }
+    },
+    {
+        "name": "Mar atlântico",
+        "rank": 5,
+        "regularValues": {
+            "week": 220,
+            "weekend": 150
+        },
+        "fidelityValues": {
+            "week": 100,
+            "weekend": 40
+        }
+    }
+
+]
